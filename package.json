@@ -1,0 +1,9 @@
+{
+  "description": "cron task for mychloe",
+  "dependencies": {
+    "async": "^1.5.0",
+    "cron": "^1.0.9",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  }
+}
