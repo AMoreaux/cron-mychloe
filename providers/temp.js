@@ -11,7 +11,7 @@ var temp = function(user){
 
   this.user = user;
   this.limit ={
-    max : 30,
+    max : 35,
     min:0
   }
 };

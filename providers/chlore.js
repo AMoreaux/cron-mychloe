@@ -11,7 +11,7 @@ var chlore = function(user){
 
   this.user = user;
   this.limit ={
-    max : 2,
+    max : 3,
     min:1
   }
 };
